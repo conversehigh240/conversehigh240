@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=conversehigh240&layout=compact)
 -->
 
 - 🎓 I majored in Computer Science and Engineering
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=conversehigh240&layout=compact)
+
