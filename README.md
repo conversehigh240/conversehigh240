@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 🎓 majored in Computer Science and Engineering  
-🔗 <conversehigh240.notion.site> (not shared yet)
+🔗 <https://conversehigh240.notion.site> (not shared yet)
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=conversehigh240&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
